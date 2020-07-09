@@ -1,0 +1,2 @@
+# Klaisifkasi-Tweet-Bertema-Covid
+Ini adalah salah satu kompetisi yang diselenggarakan oleh Zindi, dimana disediakan dataset berupa kumpulan tweet dengan label "bertemakan Covid" dan "tidak bertemakan Covid". Tujuannya adalah membuat model yang dapat menentukan apakah tweet yang dibuat kemudian terklasifikasi sebagai tweet Covid ataukah tidak, meskipun tidak menyertakan kata Covid secara implisit. Setelah didapatkan model, kemudian dilakukan deployment ke dalam streamlit untuk dijadikan aplikasi mini yang mampu mendeteksi tweet seseorang.
